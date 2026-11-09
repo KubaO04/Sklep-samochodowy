@@ -1,0 +1,4 @@
+qa/
+.sites-local/
+*.zip
+node_modules/
