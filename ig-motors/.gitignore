@@ -2,3 +2,7 @@ qa/
 .sites-local/
 *.zip
 node_modules/
+.local/
+.env*
+!.env.example
+.dev.vars*
